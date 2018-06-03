@@ -1,4 +1,4 @@
-package com.sweethome;
+package sweethome;
 
 public class Price {
 
